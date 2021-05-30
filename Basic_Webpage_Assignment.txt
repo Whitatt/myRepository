@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Horror Movies!</title>
+	<body>
+		<p>"Do you like scary movies?</p>
+			<h1>Scream</h1>
+			<h3>The Thing</h3>
+			<h6>Big Trouble in Little China</h6>
+	</body>
+</html>
