@@ -1,0 +1,11 @@
+p {
+    font-size: 10px;
+    font-family: 20;
+}
+
+input {
+    width: 100%;
+    margin: 50%;
+    border: 35%;
+    border-radius: 25%;
+}
