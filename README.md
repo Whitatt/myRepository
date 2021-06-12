@@ -3,7 +3,7 @@
 <h2>This is a display of sample websites that I made using HTML and CSS<h2>
 
 <h1><Projects></h1>
-
+<p><a href="academy_cinemas.html"><Academy Cinemas></a></p>
 <p><a href="index1.html">Sci Fi Classics</a></p>
 
 
