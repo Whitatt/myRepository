@@ -5,7 +5,7 @@
 <h1><Projects></h1>
   
 <p><a href="index1.html">Sci Fi Classics</a></p>
- <p><a href="bootstrap4_project"><Academy Cinemas></a></p>
+<p><a href="academy_cinemas"><Academy Cinemas></a></p>
 
 
 <h2>Sci Fi Classics Site</h2>
