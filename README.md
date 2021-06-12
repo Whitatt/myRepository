@@ -4,7 +4,7 @@
 
 <h1>Projects>
 
-<p><a href="index1.html">Sci Fi Classic</a><p>
+<p><a href="index1.html">Sci Fi Classics</a><p>
 <p><a href="academy_cinemas.html"><Academy Cinemas></a>
 
 <h2>Sci Fi Classics Site</h2>
@@ -12,7 +12,6 @@
 
 <h2>Movie Theater Site</h2>
 <p>This page is an example home page for a Movie Theater that is styled using Bootstrap 4.
-<br>It contains many Bootstrap components including but not limited to</br>
-<br>a navbar, jumbotron, form, cards and dropdowns</br></p>
+<br>It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards and dropdowns</br></p>
 
 
