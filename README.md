@@ -16,3 +16,12 @@
 <br>It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards and dropdowns</br></p>
 
 
+<h1>Python Projects:</h1>
+
+<p>The links below include projects that I have created using Python
+
+<p><a href="https://github.com/Whitatt/DjangoProjects/tree/main/Django_Checkbook">Django Checkbook Project</a></p>
+
+<p><a href="https://github.com/Whitatt/DjangoProjects/tree/main/DjangoUniversity">Django University</a></p>
+
+<p><a href="https://github.com/Whitatt/Python-Projects/blob/main/NiceorMean.py">Nice Or Mean Game</a></p>
